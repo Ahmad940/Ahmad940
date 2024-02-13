@@ -41,7 +41,7 @@
     <h2 align="center">you can reach me on:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/ultra__" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/ultra00" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://github.com/Ahmad940/" target="blank"><img align="center"
@@ -50,7 +50,7 @@
       <a href="mailto:ahmadmuhammadmak5@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-       <a href="https://twitter.com/idle_pkg" target="blank"><img align="center"
+       <a href="https://twitter.com/3x3pt10n" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
